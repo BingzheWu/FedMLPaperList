@@ -3,7 +3,10 @@ This is a collection of different privacy-preserving machine learning papers
 
 ## Theory Insights
 ### Information tehory
-### Stability
+### Disrtibutional Robust Optimization
+* Invariant Risk Minimization
+* Heterogeneous Risk Minimization
+* Distributionally Robust Federated Averaging
 
 ## General Federated learning
 ### Training Protocol
