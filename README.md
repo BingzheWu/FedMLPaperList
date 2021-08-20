@@ -16,4 +16,6 @@ from Decentralized Data
 ### Theoretical Analysis
 * ON THE CONVERGENCE OF FEDAVG ON NON-IID DATA
 ### Emirical Analysis
+### Personalized FL
+* Adaptive Personalized Federated Learning
 ## Federated Graph Learning
